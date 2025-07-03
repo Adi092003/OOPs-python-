@@ -16,6 +16,6 @@ I applied them to build this CLI app.
 
 It helped me understand how real-world data (like students) can be managed using classes, and how to make interactive terminal-based apps using loops and logic.
 
-🎯 This is just the beginning — more features like **search**, **delete**, and **file saving** will be added next!
+
 
 — *Aditya Patil*
