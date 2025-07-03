@@ -6,7 +6,7 @@ This repository is a collection of small projects built while learning Object-Or
 
 ## 📁 Projects So Far
 
-1.- [Student Info CLI App](./student_info_cli/README.md)  
+1.- [Student Info CLI App](Student_Info_Manager.md)  
   A simple terminal-based app to add and view student details using OOP concepts.
 
 ---
