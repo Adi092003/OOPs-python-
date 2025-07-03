@@ -12,7 +12,7 @@ After learning the basics of:
 - storing objects in a list
 - looping with conditionals
 
-I applied them to build this CLI app.
+I applied them to build this [Student Info CLI App](stuinfomanager.py)
 
 It helped me understand how real-world data (like students) can be managed using classes, and how to make interactive terminal-based apps using loops and logic.
 
